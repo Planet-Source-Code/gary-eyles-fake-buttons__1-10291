@@ -1,0 +1,15 @@
+CustomButtons = 6, 17, 603, 545, C
+Form1 = 32, 11, 597, 510, , 9, 1, 516, 497, C
+ISubclass = 88, 88, 503, 434, C
+MSubclass = 110, 110, 525, 456, C
+GSubclass = 8, 66, 558, 490, C
+Module1 = 38, 57, 523, 463, C
+MTimer = 0, 0, 0, 0, C
+CTimer = 110, 110, 515, 456, C
+Form2 = 63, 63, 466, 409, C, 87, 32, 299, 402, C
+Module2 = 22, 22, 544, 493, C
+cCommonDialog = 66, 66, 542, 458, C
+GCommonDialog = 47, 90, 558, 366, C
+mGDIAPI = 88, 88, 489, 434, C
+cDIBSection256 = 66, 66, 467, 412, C
+Form3 = 66, 66, 467, 412, C, 44, 44, 491, 376, C
